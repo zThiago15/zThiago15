@@ -43,7 +43,7 @@ I Intend to become a fullstack developer.**
 ![VsCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Pycharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
-
+---
 ## Profile Statistics 📊
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zThiago15&theme=tokyonight)](https://github.com/anuraghaz/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zThiago15&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
