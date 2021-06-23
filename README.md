@@ -1,13 +1,13 @@
 # Hey there! I'm called Thiago 👋
 
 ## About me ✏️
-   I'm 19 years old, started studying programming, in 2019, with Python and since then I've been passionate about this world. 
-I Intend to become a fullstack developer.
+   **I'm 19 years old, started studying programming, in 2019, with Python and since then I've been passionate about this world. 
+I Intend to become a fullstack developer.**
 
 ---
 
 ## Education 🎓
-* Systems Development Technician
+* __Systems Development Technician__
 
 <!--
 
@@ -48,4 +48,4 @@ I Intend to become a fullstack developer.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zThiago15&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 --- 
->*Insanity is doing the same thing over and over again but expecting different results* ⚡
+>__*Insanity is doing the same thing over and over again but expecting different results*__ ⚡
