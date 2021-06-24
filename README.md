@@ -24,10 +24,18 @@ I Intend to become a fullstack developer.**
 --- 
 ## Ways to contact me! 📪
 
-![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
-![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+[![gmail-badge][gmail-img]][gmail]
+[![linkedin-badge][linkedin-img]][linkedin]
+[![github-badge][github-img]][github]
 
+[gmail-img]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+[gmail]: thiaguinhodias.15@gmail.com
+
+[linkedin-img]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[linkedin]: https://www.linkedin.com/in/thiagodb/
+
+[github-img]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+[github]: https://github.com/zThiago15
 
 ---
 ## Languages and Tools I use 💻
