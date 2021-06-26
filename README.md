@@ -39,17 +39,50 @@ I Intend to become a fullstack developer.**
 
 ---
 ## Languages and Tools I use 💻
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![VsCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Pycharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+[![Python-badge][python-img]][python]
+[![Javascript-badge][javascript-img]][javascript]
+[![Typescript-badge][typescript-img]][typescript]
+[![PHP-badbge][php-img]][php]
+[![Java-badge][java-img]][java]
+[![MySQL-badge][mysql-img]][mysql]
+[![Nodejs-badge][nodejs-img]][nodejs]
+[![GIT-badge][git-img]][git]
+[![Cypress-badge][cypress-img]][cypress]
+[![VsCode-badge][vscode-img]][vscode]
+[![Pycharm-badge][pycharm-img]][pycharm]
+
+[python-img]: https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen
+[python]: https://www.python.org/
+
+[javascript-img]: https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+[javascript]: https://www.javascript.com/
+
+[typescript-img]: https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
+[typescript]: https://www.typescriptlang.org/
+
+[php-img]: https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
+[php]: https://www.php.net/
+
+[java-img]: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
+[java]: https://www.java.com/pt-BR/
+
+[mysql-img]: https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
+[mysql]: https://www.mysql.com/
+
+[nodejs-img]: https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white
+[nodejs]: https://nodejs.org/en/
+
+[git-img]: https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+[git]: https://git-scm.com/
+
+[cypress-img]: https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white
+[cypress]: https://www.cypress.io/
+
+[vscode-img]: https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
+[vscode]: https://code.visualstudio.com/
+
+[pycharm-img]: https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green
+[pycharm]: https://www.jetbrains.com/pt-br/pycharm/download/
 
 ---
 ## Profile Statistics 📊
