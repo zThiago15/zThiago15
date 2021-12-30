@@ -1,7 +1,7 @@
 # Hey there! I'm called Thiago 👋
 
 ## About me ✏️
-   **I'm 19 years old, started studying programming in 2019 with Python and since then I've been passionate about this world. 
+   **I'm 20 years old, started studying programming in 2019 with Python and since then I've been passionate about this world. 
 I Intend to become a fullstack developer.**
 
 ---
