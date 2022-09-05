@@ -1,14 +1,15 @@
-# Hey there! I'm called Thiago 👋
+# "Hello world!", me chamo Thiago 👋
 
-## About me ✏️
-   **I'm 20 years old, started studying programming in 2019 with Python and since then I've been passionate about this world. 
-I Intend to become a fullstack developer.**
+## Sobre mim ✏️
+   **Tenho 20 anos, comecei minha paixão por programação com Python, em 2019, com os vídeos do grande professor Gustavo Guanabara e desde então, comecei a me interessar e buscar conhecer a área de tecnologia cada vez mais. Meu objetivo é tornar-me desenvolvedor Fullstack.**
 
 ---
 
-## Education 🎓
-* __Systems Development Technician__
-
+## Educação 🎓
+* Desenvolvimento Web - Trybe
+* Ciência da Computação - Faculdade Descomplica
+* Bolsa Trabalho: Juventude, Trabalho e Fabricação Digital - Prefeitura de São Paulo
+* Técnico em Desenvolvimento de Sistemas - ETEC Prof. Camargo Aranha
 <!--
 
 - 🔭 I’m currently working on ...
@@ -22,7 +23,7 @@ I Intend to become a fullstack developer.**
 -->
 
 --- 
-## Ways to contact me! 📪
+## Contato 📪
 
 [![gmail-badge][gmail-img]][gmail]
 [![linkedin-badge][linkedin-img]][linkedin]
@@ -34,22 +35,22 @@ I Intend to become a fullstack developer.**
 [linkedin-img]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin]: https://www.linkedin.com/in/thiagodb/
 
-[github-img]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
-[github]: https://github.com/zThiago15
-
 ---
-## Languages and Tools I use 💻
+## Linguagens e ferramentas utilizadas 💻
 [![Python-badge][python-img]][python]
 [![Javascript-badge][javascript-img]][javascript]
 [![Typescript-badge][typescript-img]][typescript]
+[![React.js-badge][react-img]][react]
 [![PHP-badbge][php-img]][php]
-[![Java-badge][java-img]][java]
 [![MySQL-badge][mysql-img]][mysql]
-[![Nodejs-badge][nodejs-img]][nodejs]
+[![Node.js-badge][nodejs-img]][nodejs]
 [![GIT-badge][git-img]][git]
 [![Cypress-badge][cypress-img]][cypress]
 [![VsCode-badge][vscode-img]][vscode]
 [![Pycharm-badge][pycharm-img]][pycharm]
+
+[react-img]: https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge
+[react]: https://reactjs.org/
 
 [python-img]: https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen
 [python]: https://www.python.org/
@@ -62,9 +63,6 @@ I Intend to become a fullstack developer.**
 
 [php-img]: https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
 [php]: https://www.php.net/
-
-[java-img]: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
-[java]: https://www.java.com/pt-BR/
 
 [mysql-img]: https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
 [mysql]: https://www.mysql.com/
@@ -85,7 +83,7 @@ I Intend to become a fullstack developer.**
 [pycharm]: https://www.jetbrains.com/pt-br/pycharm/download/
 
 ---
-## Profile Statistics 📊
+## Estatísticas de perfil 📊
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zThiago15&theme=tokyonight)](https://github.com/anuraghaz/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zThiago15&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
