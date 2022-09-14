@@ -32,7 +32,7 @@
 [gmail]: mailto:thiaguinhodias.15@gmail.com
 
 [linkedin-img]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-[linkedin]: https://www.linkedin.com/in/thiagodb/
+[linkedin]: https://www.linkedin.com/in/thiago-dias-dev/
 
 ---
 ## Linguagens e ferramentas utilizadas 💻
