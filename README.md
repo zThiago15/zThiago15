@@ -6,10 +6,10 @@
 ---
 
 ## Educação 🎓
-* Desenvolvimento Web - Trybe
-* Ciência da Computação - Faculdade Descomplica
-* Bolsa Trabalho: Juventude, Trabalho e Fabricação Digital - Prefeitura de São Paulo
-* Técnico em Desenvolvimento de Sistemas - ETEC Prof. Camargo Aranha
+* Desenvolvimento Web - Trybe(2022)
+* Ciência da Computação - Faculdade Descomplica(2022-2026)
+* Bolsa Trabalho: Juventude, Trabalho e Fabricação Digital - Prefeitura de São Paulo(2022)
+* Técnico em Desenvolvimento de Sistemas - ETEC Prof. Camargo Aranha(2020-2021)
 <!--
 
 - 🔭 I’m currently working on ...
