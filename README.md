@@ -12,6 +12,13 @@
 * Técnico em Desenvolvimento de Sistemas - ETEC Prof. Camargo Aranha(2020-2021)
 <!--
 
+## Cursos extracurriculares
+* Inglês - Cidadão Pro Mundo(2022)
+* Inglês(EAD) - Kultivi(2021)
+* Estrutura de Dados e Algoritmos - Digital Innovation One(2021)
+* Desvendando a Blockchain - SENAI(2021)
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
