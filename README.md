@@ -95,4 +95,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zThiago15&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 --- 
+## Contribuições ✨
+![snake gif](https://github.com/zthiago15/zthiago15/blob/output/github-contribution-grid-snake.gif)
+
+---
+
 >__*Insanity is doing the same thing over and over again but expecting different results*__ ⚡
