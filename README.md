@@ -45,16 +45,28 @@
 ---
 ## Linguagens e ferramentas utilizadas 💻
 [![Python-badge][python-img]][python]
+[![Html-badge][html-img]][html]
+[![Css-badge][css-img]][css]
 [![Javascript-badge][javascript-img]][javascript]
 [![Typescript-badge][typescript-img]][typescript]
 [![React.js-badge][react-img]][react]
 [![PHP-badbge][php-img]][php]
-[![MySQL-badge][mysql-img]][mysql]
 [![Node.js-badge][nodejs-img]][nodejs]
+[![Prisma-badge][prisma-img]][prisma]
+[![MySQL-badge][mysql-img]][mysql]
 [![GIT-badge][git-img]][git]
 [![Cypress-badge][cypress-img]][cypress]
 [![VsCode-badge][vscode-img]][vscode]
 [![Pycharm-badge][pycharm-img]][pycharm]
+
+[html-img]: https://img.shields.io/badge/-html-orange?logo=html&logoColor=white&style=for-the-badge
+[html]: https://developer.mozilla.org/en-US/docs/Web/HTML
+
+[css-img]: https://img.shields.io/badge/-css-blue?logo=css&logoColor=white&style=for-the-badge
+[css]: https://developer.mozilla.org/en-US/docs/Web/CSS
+
+[prisma-img]: https://img.shields.io/badge/-Prisma-lightgrey?logo=prisma&logoColor=black&style=for-the-badge
+[prisma]: https://prisma.io
 
 [react-img]: https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge
 [react]: https://reactjs.org/
