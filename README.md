@@ -52,6 +52,7 @@
 [![React.js-badge][react-img]][react]
 [![PHP-badbge][php-img]][php]
 [![Node.js-badge][nodejs-img]][nodejs]
+[![Express-badge][express-img]][express]
 [![Prisma-badge][prisma-img]][prisma]
 [![MySQL-badge][mysql-img]][mysql]
 [![GIT-badge][git-img]][git]
@@ -88,6 +89,9 @@
 
 [nodejs-img]: https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white
 [nodejs]: https://nodejs.org/en/
+
+[express-img]: https://img.shields.io/badge/-express-white?logo=express&logoColor=black&style=for-the-badge
+[express]: https://expressjs.com/
 
 [git-img]: https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
 [git]: https://git-scm.com/
