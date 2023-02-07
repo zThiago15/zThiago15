@@ -1,18 +1,21 @@
 # "Hello world!", me chamo Thiago 👋
 
 ## Sobre mim ✏️
-   **Tenho 20 anos, comecei minha paixão por programação com Python, em 2019, com os vídeos do grande professor Gustavo Guanabara e desde então, comecei a me interessar e buscar conhecer a área de tecnologia cada vez mais. Meu objetivo é tornar-me desenvolvedor Fullstack.**
+   **Tenho 21 anos, possuo nível intermediário para avançado em Inglês e comecei minha paixão por programação com Python, em 2019, com os vídeos do grande professor Gustavo Guanabara. Desde então, comecei a me interessar e buscar conhecer a área de tecnologia cada vez mais. Meu objetivo é tornar-me desenvolvedor Fullstack.**
+
+## 🌱 Estou atualmente aprendendo...
+  **Sobre as tecnologias Java, AWS e Python**
 
 ---
 
 ## Educação 🎓
-* Desenvolvimento Web - Trybe(2022)
+* Desenvolvimento Web - Trybe(2022-2023)
 * Ciência da Computação - Faculdade Descomplica(2022-2026)
 * Bolsa Trabalho: Juventude, Trabalho e Fabricação Digital - Prefeitura de São Paulo(2022)
 * Técnico em Desenvolvimento de Sistemas - ETEC Prof. Camargo Aranha(2020-2021)
 
 ## Cursos extracurriculares 📖
-* Inglês - Cidadão Pro Mundo(2022)
+* Inglês - Cidadão Pro Mundo(2022 - 2023)
 * Inglês(EAD) - Kultivi(2021)
 * Estrutura de Dados e Algoritmos - Digital Innovation One(2021)
 * Desvendando a Blockchain - SENAI(2021)
@@ -21,7 +24,6 @@
 
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
