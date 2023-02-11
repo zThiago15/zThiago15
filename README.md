@@ -15,6 +15,8 @@
 * Técnico em Desenvolvimento de Sistemas - ETEC Prof. Camargo Aranha(2020-2021)
 
 ## Cursos extracurriculares 📖
+* Inglês - CPM Qualify(2023)
+* AWS - Freecodecamp(2023)
 * Inglês - Cidadão Pro Mundo(2022 - 2023)
 * Inglês(EAD) - Kultivi(2021)
 * Estrutura de Dados e Algoritmos - Digital Innovation One(2021)
