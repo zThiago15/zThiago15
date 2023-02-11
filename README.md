@@ -10,7 +10,7 @@
 
 ## Educação 🎓
 * Desenvolvimento Web - Trybe(2022-2023)
-* Ciência da Computação - Faculdade Descomplica(2022-2026)
+* Ciência da Computação - Centro Universitário União das Américas Descomplica(2022-2026)
 * Bolsa Trabalho: Juventude, Trabalho e Fabricação Digital - Prefeitura de São Paulo(2022)
 * Técnico em Desenvolvimento de Sistemas - ETEC Prof. Camargo Aranha(2020-2021)
 
