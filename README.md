@@ -3,7 +3,7 @@
 ## Sobre mim ✏️
    **Tenho 21 anos, possuo nível intermediário para avançado em Inglês e comecei minha paixão por programação com Python, em 2019, com os vídeos do grande professor Gustavo Guanabara. Desde então, comecei a me interessar e buscar conhecer a área de tecnologia cada vez mais. Meu objetivo é tornar-me desenvolvedor Fullstack.**
 
-## 🌱 Estou atualmente aprendendo...
+## Estou atualmente aprendendo... 🌱
   **Sobre as tecnologias Java, AWS e Python**
 
 ---
