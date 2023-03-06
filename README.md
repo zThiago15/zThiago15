@@ -4,8 +4,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&duration=2000&pause=1000&lines=Inglês+Intermediário+🇺🇸;Desenvolvedo+Fullstack+⚡;Graduação+em+Ciência+da+Computação+🖥️;Proativo/determinado/Curioso+✨;Amo+aprender+coisas+novas+💙;"></a>
 </p>
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 ## Sobre mim ✏️
    **Tenho 21 anos, possuo nível intermediário para avançado em Inglês e considero-me proativo, determinado e curioso. Comecei minha paixão por programação com Python, em 2019, com os vídeos do grande professor Gustavo Guanabara. Desde então, comecei a me interessar e buscar conhecer a área de tecnologia cada vez mais. Meu objetivo é tornar-me desenvolvedor Fullstack Senior com fluência no Inglês e ajudar desenvolvedores a evoluirem na área.**
 
