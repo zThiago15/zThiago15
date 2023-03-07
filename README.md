@@ -51,7 +51,7 @@
 [![linkedin-badge][linkedin-img]][linkedin]
 
 [gmail-img]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-[gmail]: mailto:thiaguinhodias.15@gmail.com
+[gmail]: mailto:thiagodias.db15@gmail.com
 
 [linkedin-img]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin]: https://www.linkedin.com/in/thiago-dias-dev/
@@ -126,6 +126,35 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zThiago15&theme=tokyonight&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats" alt="top langs" />
 
 <br/>
+
+---
+
+## Projetos 🎨
+
+<table>
+  <tr>
+    <th>IDrink</th>
+    <th>Trivia game</th>
+    <th>Blogs API</th>
+  </tr>
+  <tr>
+    <td>
+      <strong>Fullstack</strong>
+      <p>Tecnologias: React.js, Redux.js, Tailwind.css, Axios, RTL & Jest, Node.js, Express, JWT, Sequelize, MySQL</p>
+            <img width="300px" height="120px" src="https://user-images.githubusercontent.com/61299540/223302335-5b3192cc-58b9-466e-94a2-3e1df6ed8df8.png" alt="drinks" />
+    </td>
+    <td>
+      <strong>Front-end</strong>
+      <p>Tecnologias: React.js, Web Storage, Bootstrap, RTL & Jest, Axios </p>
+            <img width="300px" height="120px" src="https://user-images.githubusercontent.com/61299540/223304713-484f6896-fe37-43a0-94bf-88c563c7a620.png" alt="trivia game" />
+    </td>
+    <td>      
+      <strong>Back-end</strong>
+      <p>Tecnologias: Node.js, Express, Sequelize(ORM), Docker, JWT(JSON Web Token), Swagger(documentação), Sequelize, MySQL </p>
+      <img width="300px" height="120px" src="https://user-images.githubusercontent.com/61299540/223304467-c3d02163-a9fd-4082-b3ec-0121ae5a4b1b.png" alt="blogs API" />
+    </td>
+  </tr>
+</table>
 
 --- 
 
