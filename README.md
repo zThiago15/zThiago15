@@ -34,7 +34,6 @@
 
 ## Experiências 👔
 * Desenvolvedor Fullstack - Freelancer(2023)
-* Desenvolvedor Fullstack - Freelancer(2023)
 * Aprendiz - FabLab Itaquera(2022)
 * Assistente de contador - JP Funilaria e Pintura(2020)
 
