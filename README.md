@@ -40,7 +40,7 @@
 ---
 
 ## Voluntário 🚀
-* Desenvolvedor back-end - Júnior Lab(2023)
+* Desenvolvedor back-end - TechRate(2023)
 
 --- 
 
