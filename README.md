@@ -41,8 +41,8 @@
 ---
 
 ## Voluntário 🚀
-* Desenvolvedor back-end - TechRate(2023)
-
+* Desenvolvedor back-end com Nest.js- Controle de corrida(2024)
+* Desenvolvedor back-end com Node.js- TechRate(2023)
 --- 
 
 ## Contato 📪
